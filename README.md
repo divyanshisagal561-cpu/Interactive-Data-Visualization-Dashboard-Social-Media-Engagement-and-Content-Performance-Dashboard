@@ -23,7 +23,6 @@ Open `dashboard/social_media_engagement_dashboard.html` in a web browser to expl
   * Likes distribution histogram
   * Likes over time line chart
 * Includes hover details to inspect individual data points.
-* 
 
 ## Technologies Used
 
