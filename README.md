@@ -1,4 +1,4 @@
-# Social Media Engagement \& Content Performance Dashboard
+# Social Media Engagement & Content Performance Dashboard
 
 
 
@@ -6,7 +6,8 @@ An interactive data analysis and visualization project that explores social medi
 
 The project uses Python for data handling and analysis, Matplotlib for a correlation heatmap, and Plotly for an interactive dashboard.
 
-
+Dashboard Preview
+Open `dashboard/social_media_engagement_dashboard.html` in a web browser to explore the interactive dashboard.
 
 ## Project Highlights
 
@@ -38,14 +39,12 @@ The project uses Python for data handling and analysis, Matplotlib for a correla
 ```text
 social-media-engagement-dashboard/
 │
-├── dashboard\_project.py
+├── dashboard_project.py
 │   
 ├── dashboard/
-│   └── social\\\_media\\\_engagement\\\_dashboard.html
-
+│   └── social_media_engagement_dashboard.html
 |
 ├── screenshots.png
-
 |
 ├── requirements.txt
 |
