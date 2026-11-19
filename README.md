@@ -95,6 +95,7 @@ The project explores:
 ## Author
 
 **Divyanshi Sagal**
+
 BCA – AI \& Data Science Student
 
 K.R.Mangalam University, Haryana
